@@ -1,0 +1,6 @@
+{
+  "name": "ARK AI",
+  "description": "ARK AI — Professional AI Video Editor & Photo Studio powered by FFmpeg.wasm and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
